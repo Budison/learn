@@ -5,26 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67c0f454-aab6-4f4e-b911-b3e759f19997" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/budison/learn/generics/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/budison/learn/generics/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/budison/learn/streams/ArrayStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/budison/learn/streams/IntegerStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/budison/learn/streams/Iteration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/budison/learn/streams/ListStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/budison/learn/streams/Mapping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/budison/learn/streams/Reduction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/budison/learn/streams/ReutersInterviewQuestion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/budison/learn/streams/StreamFromCSVFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/budison/learn/streams/StreamFromFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/budison/learn/streams/StreamFromFileAndSafe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/budison/learn/streams/StreamOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/bands.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/budison/learn/dao/baeldung/DAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/budison/learn/dao/baeldung/JpaUserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/budison/learn/dao/baeldung/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/budison/learn/dao/baeldung/UserApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/budison/learn/dao/baeldung/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/budison/learn/dao/digitalocean/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/budison/learn/dao/digitalocean/BookApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/budison/learn/dao/digitalocean/BookDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/budison/learn/dao/digitalocean/BookDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/budison/learn/dao/digitalocean/notes.adoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,12 +27,28 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -65,17 +74,23 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/home/kevin/development/java/code-with-john/rest-api",
+    "nodejs_package_manager_path": "npm",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Reduction">
-    <configuration name="ListStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.github.budison.learn.streams.ListStream" />
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.github.budison.learn.dao" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BookApplication">
+    <configuration name="BookApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.budison.learn.dao.digitalocean.BookApplication" />
       <module name="learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.github.budison.learn.streams.*" />
+          <option name="PATTERN" value="com.github.budison.learn.dao.digitalocean.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,19 +124,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamFromFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.github.budison.learn.streams.StreamFromFile" />
-      <module name="learn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.github.budison.learn.streams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StreamFromFileAndSafe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.github.budison.learn.streams.StreamFromFileAndSafe" />
       <module name="learn" />
@@ -135,13 +137,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UserApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.budison.learn.dao.baeldung.UserApplication" />
+      <module name="learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.budison.learn.dao.baeldung.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BookApplication" />
+        <item itemvalue="Application.UserApplication" />
         <item itemvalue="Application.Reduction" />
         <item itemvalue="Application.StreamFromCSVFile" />
         <item itemvalue="Application.StreamFromFileAndSafe" />
-        <item itemvalue="Application.StreamFromFile" />
-        <item itemvalue="Application.ListStream" />
       </list>
     </recent_temporary>
   </component>
@@ -161,6 +176,8 @@
       <workItem from="1664449349716" duration="1823000" />
       <workItem from="1664528743104" duration="94000" />
       <workItem from="1664528875388" duration="9189000" />
+      <workItem from="1664872787525" duration="1446000" />
+      <workItem from="1664882898946" duration="3730000" />
     </task>
     <servers />
   </component>
