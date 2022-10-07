@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67c0f454-aab6-4f4e-b911-b3e759f19997" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/budison/learn/dao/digitalocean/diagram.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/budison/learn/dao/digitalocean/notes.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/budison/learn/dao/digitalocean/notes.adoc" afterDir="false" />
-    </list>
+    <list default="true" id="67c0f454-aab6-4f4e-b911-b3e759f19997" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -175,7 +170,7 @@
       <workItem from="1664528875388" duration="9189000" />
       <workItem from="1664872787525" duration="1446000" />
       <workItem from="1664882898946" duration="3730000" />
-      <workItem from="1665139069906" duration="1705000" />
+      <workItem from="1665139069906" duration="2344000" />
     </task>
     <servers />
   </component>
