@@ -12,7 +12,7 @@
 
 3. The *interface implementation* which is a concrete implementation of the persistence logic -> `BookDAOImpl`
 
-image:https://journaldev.nyc3.digitaloceanspaces.com/2017/11/DAO-Pattern.png[DAO Pattern]
+image::diagram.png[]
 
 == Advantages of DAO pattern
 

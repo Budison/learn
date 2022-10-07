@@ -5,19 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67c0f454-aab6-4f4e-b911-b3e759f19997" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/budison/learn/dao/baeldung/DAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/budison/learn/dao/baeldung/JpaUserDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/budison/learn/dao/baeldung/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/budison/learn/dao/baeldung/UserApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/budison/learn/dao/baeldung/UserDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/budison/learn/dao/digitalocean/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/budison/learn/dao/digitalocean/BookApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/budison/learn/dao/digitalocean/BookDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/budison/learn/dao/digitalocean/BookDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/budison/learn/dao/digitalocean/notes.adoc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/budison/learn/dao/digitalocean/diagram.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/budison/learn/dao/digitalocean/notes.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/budison/learn/dao/digitalocean/notes.adoc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,8 +64,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/kevin/development/java/code-with-john/rest-api",
+    "last_opened_file_path": "/home/kevin/development/java/learn/src/main/java/com/github/budison/learn/dao/digitalocean",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
@@ -82,6 +76,9 @@
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.github.budison.learn.dao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/github/budison/learn/dao/digitalocean" />
     </key>
   </component>
   <component name="RunManager" selected="Application.BookApplication">
@@ -178,6 +175,7 @@
       <workItem from="1664528875388" duration="9189000" />
       <workItem from="1664872787525" duration="1446000" />
       <workItem from="1664882898946" duration="3730000" />
+      <workItem from="1665139069906" duration="1705000" />
     </task>
     <servers />
   </component>
