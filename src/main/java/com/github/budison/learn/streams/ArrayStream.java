@@ -16,7 +16,5 @@ class ArrayStream {
                 .filter(name -> name.startsWith("S"))
                 .sorted()
                 .forEach(System.out::println);
-
-
     }
 }
